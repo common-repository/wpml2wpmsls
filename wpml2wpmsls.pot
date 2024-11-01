@@ -1,0 +1,210 @@
+# Copyright (C) 2013 WPML 2 WPMSLS
+# This file is distributed under the same license as the WPML 2 WPMSLS package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPML 2 WPMSLS 0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wpml2wpmsls\n"
+"POT-Creation-Date: 2013-05-31 23:21:22+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-05-31 19:23-0500\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Poedit 1.5.5\n"
+
+#: wpml2wpmsls.php:101
+msgid "Settings"
+msgstr ""
+
+#: wpml2wpmsls.php:115
+msgid "Convert WPML to WPMSLS"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (WPML 2 WPMSLS 0.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: wpml2wpmsls.php:115 wpml2wpmsls.php:129
+msgid "WPML 2 WPMSLS"
+msgstr ""
+
+#: wpml2wpmsls.php:131
+msgid "Conversion from WPML to WPMS so simple it feels like magic."
+msgstr ""
+
+#: wpml2wpmsls.php:141
+msgid "Update"
+msgstr ""
+
+#: wpml2wpmsls.php:159
+msgid "Conversion Mode"
+msgstr ""
+
+#: wpml2wpmsls.php:160
+msgid "Post Type(s)"
+msgstr ""
+
+#: wpml2wpmsls.php:170
+msgid "Off"
+msgstr ""
+
+#: wpml2wpmsls.php:174
+msgid "WPML"
+msgstr ""
+
+#: wpml2wpmsls.php:176
+msgid "Export"
+msgstr ""
+
+#: wpml2wpmsls.php:180
+msgid "WPMS"
+msgstr ""
+
+#: wpml2wpmsls.php:210
+msgid "You did not select a Post Type. "
+msgstr ""
+
+#: wpml2wpmsls.php:211 wpml2wpmsls.php:408
+msgid "No changes made to your site content. "
+msgstr ""
+
+#: wpml2wpmsls.php:275 wpml2wpmsls.php:397
+msgid " entries had meta data updated with details for "
+msgstr ""
+
+#: wpml2wpmsls.php:275
+msgid " translations. "
+msgstr ""
+
+#: wpml2wpmsls.php:279 wpml2wpmsls.php:400
+msgid " None of those Post Type(s) existed for update. "
+msgstr ""
+
+#: wpml2wpmsls.php:287 wpml2wpmsls.php:407
+msgid "Settings saved. "
+msgstr ""
+
+#: wpml2wpmsls.php:292
+msgid "This feature is not yet implemented."
+msgstr ""
+
+#: wpml2wpmsls.php:397
+msgid " translations "
+msgstr ""
+
+#: wpml2wpmsls.php:476
+msgid "WPML2WPMS Help"
+msgstr ""
+
+#: wpml2wpmsls.php:478
+msgid "Note: "
+msgstr ""
+
+#: wpml2wpmsls.php:479
+msgid ""
+"This plugin only converts the actual posts or post types. You will need to "
+"handle conversion of any strings, .po files or other language elements "
+"separately."
+msgstr ""
+
+#: wpml2wpmsls.php:481
+msgid "To convert your WPML translation details for export: "
+msgstr ""
+
+#: wpml2wpmsls.php:482
+msgid "You must have WPML installed and activated."
+msgstr ""
+
+#: wpml2wpmsls.php:483
+msgid ""
+"Set the Conversion Mode to WPML and select which post type(s) you want to "
+"convert."
+msgstr ""
+
+#: wpml2wpmsls.php:484
+msgid ""
+"Press Update. All of the selected post types will have their translations "
+"associated together via meta data."
+msgstr ""
+
+#: wpml2wpmsls.php:488
+msgid "Step 1 - Convert WPML"
+msgstr ""
+
+#: wpml2wpmsls.php:492
+msgid "To export your WPML translation details: "
+msgstr ""
+
+#: wpml2wpmsls.php:493
+msgid "Use the standard WordPress Export tool."
+msgstr ""
+
+#: wpml2wpmsls.php:494
+msgid ""
+"A future version of this plugin will enable you to filter posts for export "
+"by language."
+msgstr ""
+
+#: wpml2wpmsls.php:499
+msgid "Step 2 - Export Data"
+msgstr ""
+
+#: wpml2wpmsls.php:503
+msgid "Use the standard WordPress Import tool."
+msgstr ""
+
+#: wpml2wpmsls.php:504
+msgid ""
+"Manually delete any posts in each site that are not of the correct language."
+msgstr ""
+
+#: wpml2wpmsls.php:505
+msgid ""
+"When the export enhancements are complete your export files will be language "
+"specific so deletes not be required."
+msgstr ""
+
+#: wpml2wpmsls.php:510
+msgid "Step 3 - Import Data"
+msgstr ""
+
+#: wpml2wpmsls.php:514
+msgid "To finish converting your translations: "
+msgstr ""
+
+#: wpml2wpmsls.php:515
+msgid "You must have MSLS installed and activated."
+msgstr ""
+
+#: wpml2wpmsls.php:516
+msgid ""
+"Set the Conversion Mode to WPMS and select which post type(s) you want to "
+"convert."
+msgstr ""
+
+#: wpml2wpmsls.php:517
+msgid ""
+"Press Update. All of the selected post types will have their associated "
+"translations restored."
+msgstr ""
+
+#: wpml2wpmsls.php:522
+msgid "Step 4 - Update WPMS"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "wordpress.org/plugins/wpml2wpmsls"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Convert posts from an existing WPML multilingual site via WP Import/Export "
+"to a WPMS (Network) with Language Switcher so easily it feels like magic!"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Jamie Oastler"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://idealienstudios.com/projects/wpml2wpmsls"
+msgstr ""
